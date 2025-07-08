@@ -32,7 +32,7 @@ An enhanced version of the classic Snake game built using Python's `turtle` modu
 3. Run the game using:
 
 ```bash
-python snake_game_enhanced.py
+python hungry_snake.py
 ```
 
 🎮 Controls
@@ -45,22 +45,33 @@ python snake_game_enhanced.py
 | →     | Move Right         |
 | Space | Start / Pause Game |
 
+
 🧩 Future Enhancements (Optional Ideas)
 
 💾 High Score Saving
+
 🔊 Sound Effects
+
 🌈 Themes / Skins
+
 🧱 Walls and Difficulty Modes
+
 📱 Mobile / Web version (via Kivy or Pygame.js)
 
 
+
 🛠️ Built With
+
 Python
+
 turtle graphics module
 
+
 📄 License
+
 This project is open source and free to use under the MIT License.
 
 🙋‍♀️ Author
+
 Made with ❤️ by Krishika Singh – contributions welcome! 
 
